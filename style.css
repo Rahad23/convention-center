@@ -1,0 +1,10 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+nav .navbar-a{
+    font-weight: 600;
+    color: #000;
+}
+nav .navbar-collapse ul li a{
+    font-weight: 500;
+}
