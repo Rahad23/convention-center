@@ -23,11 +23,11 @@ nav .navbar-collapse ul li a{
 }
 }
 @media (man-width: 576px){
-#carouselExampleIndicators .carousel-item .text-h1 h1{
-                            color: #0A0826;
-                            font-weight: 700;
-                            font-size: 38px;
-                            text-align: center;
-                            margin-top: 20px;
- }
+.carousel-item .carousel-item .c-h3{
+
+}
+.carousel-item .carousel-item .c-p{
+
+}
+
 }
