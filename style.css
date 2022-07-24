@@ -8,3 +8,26 @@ nav .navbar-a{
 nav .navbar-collapse ul li a{
     font-weight: 500;
 }
+
+/* custom responsive css */
+@media  (min-width: 1200px) { 
+
+ }
+@media (man-width: 992px){
+
+}
+@media screen and (man-width: 768px){
+.evrimoment{
+    text-align: center!important;
+    margin-top: 22px;
+}
+}
+@media (man-width: 576px){
+#carouselExampleIndicators .carousel-item .text-h1 h1{
+                            color: #0A0826;
+                            font-weight: 700;
+                            font-size: 38px;
+                            text-align: center;
+                            margin-top: 20px;
+ }
+}
